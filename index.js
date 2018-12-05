@@ -231,7 +231,7 @@ const iosStyles = {
     backgroundColor: 'white',
     borderTopWidth: 0,
     left: 0,
-    position: 'absolute',
+    position: 'relative',
     right: 0
   }
 };
